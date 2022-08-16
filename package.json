@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Jesus-Villegas/readme-generator"
+        "url": "https://github.com/Jesus-Villegas?tab=repositories"
     },
     "author": "Jesus",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Jesus-Villegas/readme-generator/issues"
     },
-    "homepage": "https://github.com/Jesus-Villegas/readme-generator",
+    "homepage": "https://github.com/Jesus-Villegas?tab=repositories",
     "dependencies": {
         "inquirer": "^6.5.2"
     }
