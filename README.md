@@ -43,6 +43,6 @@ undefined
 For any questions pertaining to this project, the developer can be reached via any of the contact methods listed below. 
 Please ensure that you include the name of this project ("readme-generator") in any communications. 
 - Email me: jesusvicajr@hotmail.com
-- [My Github Profile](github.com/Jesus-Villegas)
+- [My Github Profile](https://github.com/Jesus-Villegas?tab=repositories)
 ## Screenshot of Deployed Application
 ![Screenshot of Application](IMG_2849.jpg)
