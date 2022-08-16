@@ -1,10 +1,6 @@
-# README-Generator
-
+# readme-generator
 ## Description
 This application is used to help users in automatically generating a perfect README file for their repository by using the user's input.
-
-## User Story
-AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project
 
 ## Acceptance Criteria
 -   GIVEN a command-line application that accepts user input
@@ -16,9 +12,37 @@ AS A developer I WANT a README generator SO THAT I can quickly create a professi
 -   WHEN I enter my email address THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 -   WHEN I click on the links in the Table of Contents THEN I am taken to the corresponding section of the README
 
+
 ## Technologies/Packages Used
 -   NODE.JS
 -   inquirer npm package
 -   fs package
+ 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation
+Inquirer
+## Usage
 
-## Screenshot
+## License
+MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Copyright (c) 2022 Jesus Villegas
+## Credits 
+
+## Contributing
+undefined
+## Tests
+
+## Questions
+For any questions pertaining to this project, the developer can be reached via any of the contact methods listed below. 
+Please ensure that you include the name of this project ("readme-generator") in any communications. 
+- Email me: jesusvicajr@hotmail.com
+- [My Github Profile](github.com/Jesus-Villegas)
+## Screenshot of Deployed Application
+![Screenshot of Application](IMG_2849.jpg)
